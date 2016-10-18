@@ -1,0 +1,30 @@
+#previous_questions{
+	
+	position: absolute;
+	left: 100%;
+	top: 100%;
+}
+
+#new_question{
+	
+	position: absolute;
+	left: 50%;
+	top: 40%;
+}
+
+#gotoFAQ{
+	
+	position: absolute;
+	top: 80%;
+	left: 40%;
+}
+
+#list_of_questions{
+	
+	position: absolute;
+	left:10%;
+	top: 40%;
+	width: 25%;
+	height: 20%;
+	overflow: scroll;
+}
